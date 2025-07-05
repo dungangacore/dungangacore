@@ -21,7 +21,7 @@
 ## ⚙️ Tech Stack
 
 `Python` `SQLite` `VMware` `Bash` `Excel`  
-`Automation` `Reverse Engineering` `System Optimization`
+`AI Automation` `Reverse Engineering` `System Optimization`
 
 ---
 
